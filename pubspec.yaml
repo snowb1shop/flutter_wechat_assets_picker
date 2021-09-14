@@ -14,7 +14,6 @@ dependencies:
   extended_image: ^4.1.0
   provider: ^6.0.0
   video_player: ^2.1.14
+  photo_manager: ^1.3.2
 
-  photo_manager:
-     git:
-       url: https://github.com/kasyr/flutter_photo_manager.git
+ 
