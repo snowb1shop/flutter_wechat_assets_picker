@@ -17,4 +17,4 @@ dependencies:
 
   photo_manager:
      git:
-       url: https://github.com/snowb1shop/flutter_photo_manager.git
+       url: https://github.com/kasyr/flutter_photo_manager.git
