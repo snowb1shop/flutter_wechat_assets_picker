@@ -17,6 +17,6 @@ dependencies:
   
   photo_manager:
     git:
-      url: https://github.com/snowb1shop/flutter_wechat_assets_picker.git
+      url: https://github.com/kasyr/flutter_wechat_assets_picker.git
 
  
